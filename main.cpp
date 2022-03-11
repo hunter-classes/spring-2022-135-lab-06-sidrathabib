@@ -1,9 +1,7 @@
 #include <iostream>
-
-
 #include "funcs.h"
 
-int main()
-{
+int main() {
+  
   return 0;
-}
+} 
